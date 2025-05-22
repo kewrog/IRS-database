@@ -1,0 +1,20 @@
+Team Members and Contributions
+
+
+Roger Kewin Samson - A20563057: 50%
+
+Implemented set operations and set membership queries.
+Developed the basic layout of the user interface, including CRUD operation buttons.
+Handled error messages for CRUD operations and input validation.
+Added code comments for SQL query functions and error handling.
+Organized project files and ensured proper placement of images and resources.
+Recorded the whole video in the loom after the complete test was done
+
+
+Nithik Roshan Devaraj - A20563229: 50%
+
+Developed set comparison queries, advanced aggregate functions, and OLAP queries.
+Enhanced the user interface with icons and improved button styling.
+Managed error handling for complex queries and database connection failures.
+Wrote the README file and added code comments for advanced queries.
+Assisted with the final organization of all project files.
