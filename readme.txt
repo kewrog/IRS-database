@@ -1,6 +1,4 @@
 
-1. Roger Kewin Samson - A20563057  - 50 %
-1. Nithik Roshan Devaraj - A20563229 - 50%
 
 
 IRS Database Management System
